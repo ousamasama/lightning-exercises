@@ -1,0 +1,11 @@
+Write a Person class with a constructor that takes a first and last name.
+
+Write a getter that returns the full name
+
+Write a setter that sets a nickname.
+
+https://www.youtube.com/watch?v=bl98dm7vJt0
+
+Make a childCare class where you can pass in any child and care giver as 
+properties with methods to change diaper (console logs an inspirational quote to the care giver), 
+and to store behavior in a properties (good or bad ect) using a setter.
